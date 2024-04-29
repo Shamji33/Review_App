@@ -1,0 +1,9 @@
+.form-container{
+    width: 500px !important;
+    height: auto;
+    background-color: #f5f5f5;
+    padding: 20px;
+}
+[type=button]:not(:disabled), [type=reset]:not(:disabled), [type=submit]:not(:disabled), button:not(:disabled){
+    width: 100px;
+}
